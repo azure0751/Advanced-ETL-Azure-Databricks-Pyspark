@@ -1,4 +1,4 @@
-Forked form : https://github.com/JANHMS/Advanced-ETL-Azure-Databricks-Pyspark/tree/main
+Forked formthis repo: https://github.com/JANHMS/Advanced-ETL-Azure-Databricks-Pyspark/tree/main
 # Advanced ETL using Azure + Databricks + Pyspark
 
 ## Introduction
